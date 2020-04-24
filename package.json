@@ -12,7 +12,8 @@
     "build": "nwb build",
     "lint": "eslint src",
     "lint:fix": "npm run lint -- --fix",
-    "start": "nwb serve"
+    "start": "nwb serve",
+    "serve:lhci": "npm started"
   },
   "dependencies": {
     "events": "1.1.1",

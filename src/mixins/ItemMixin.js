@@ -55,8 +55,6 @@ var ItemMixin = {
         {item.descendants > 0 ? item.descendants + ' comment' + pluralise(item.descendants) : 'discuss'}
       </Link>
       <br />
-
-
       {extraContent}
     </div>
   },
